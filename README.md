@@ -4,7 +4,7 @@
 ## 中身について
 
 ### シーケンスcontainer
-<img width="912" height="713" alt="スクリーンショット 2026-05-02 194910" src="https://github.com/user-attachments/assets/323ca7ff-4d92-459e-88c6-75e00959ef20" />
+<img width="500" height="500" alt="スクリーンショット 2026-05-02 194910" src="https://github.com/user-attachments/assets/323ca7ff-4d92-459e-88c6-75e00959ef20" />
 後述するcontainerを含む物です。この中にあるものが上から順に実行されていきます。
 
 ### animationcontainer
