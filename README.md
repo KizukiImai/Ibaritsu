@@ -29,4 +29,4 @@
 <img width="500" height="500" alt="スクリーンショット 2026-05-02 195403" src="https://github.com/user-attachments/assets/99da894f-ea75-4156-b17f-652f85c88ad8" />
 <img width="1200" height="600" alt="スクリーンショット 2026-05-02 195913" src="https://github.com/user-attachments/assets/76ec46d9-8d75-4b1c-a961-0e6dad70a1e9" />
 
-animationとcountdownではこのmoivepayer containerを使って動画を再生しています。動画ファイルを選択した後、timerのlengthを動画の長さにしてください。
+animationとcountdownではこのmoiveplayer containerを使って動画を再生しています。動画ファイルを選択した後、timerのlengthを動画の長さにしてください。
